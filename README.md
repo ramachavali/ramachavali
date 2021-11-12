@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @ramachavali
+- 👀 I’m interested in making money to live a free life. 
+- 🌱 I’m currently learning python, blockchain, and FI
+- 💞️ I’m looking to collaborate on projects that can challange me. 
+- 📫 How to reach me ...
+
+<!---
+ramachavali/ramachavali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
